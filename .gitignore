@@ -1,5 +1,6 @@
 # Config files with sensitive data
 config.py
+!config.template.py  # Explicitly NOT ignore the template
 
 # IDE files
 .idea/
